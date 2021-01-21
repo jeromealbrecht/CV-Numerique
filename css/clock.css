@@ -1,0 +1,18 @@
+/* body {
+    background: black;
+} */
+
+.clock {
+    position: absolute;
+   /* top: 50%;*/
+    margin-left: 15rem;
+    justify-content: center !important;
+    transform: translateX(-50%) translateY(-50%);
+    color: #b8c1ec;
+    font-size: 1.8rem;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+   
+
+
+}

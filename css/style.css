@@ -1,0 +1,223 @@
+html,
+body {
+
+  width: 100%;
+  height: 100%;
+  background-color: #232946;
+}
+
+.size {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.color {
+
+  background-color: #232946;
+
+}
+
+.bord-r {
+
+  border-radius: 30% 70% 20% 80% / 88% 16% 84% 12%;
+}
+
+.bord-r2 {
+
+  border-radius: 54% 46% 0% 100% / 63% 52% 48% 37%;
+}
+
+.bord-r3 {
+
+  border-radius: 19% 81% 18% 82% / 68% 20% 80% 32%;
+}
+
+.size {
+
+  width: 100%;
+  height: 600px;
+}
+
+.size2 {
+
+  width: 100%;
+  height: 700px;
+}
+
+.size3 {
+
+  width: 100%;
+  height: 700px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.mar {
+  margin-top: 25px !important;
+}
+
+h1 {
+  margin-right: 20px;
+  font-size: 26px;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  color: #b8c1ec;
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-family: 'Caveat', cursive;
+  font-size: 24px;
+}
+
+h5 {
+  font-size: 65px;
+  font-family: 'Caveat', cursive;
+
+  color: #b8c1ec;
+
+}
+
+.colo {
+  background-color: #b8c1ec;
+}
+
+.textcolor {
+  font-size: 32px;
+  font-family: 'Caveat', cursive;
+  color: #b8c1ec;
+}
+
+.bigt {
+
+  color: #b8c1ec;
+
+}
+
+.margetop {
+
+  margin-top: 100px;
+}
+
+.margetop2 {
+
+  margin-top: 170px;
+}
+
+.margel {
+
+  margin-left: 750px;
+}
+
+/* Marge du 2 ème bloc expériences */
+
+.marge {
+
+  margin-top: 300px;
+}
+
+.border {
+
+  border-radius: 25% 75% 33% 67% / 83% 26% 74% 17%;
+
+}
+
+.border2 {
+
+  border-radius: 23% 77% 16% 84% / 100% 36% 64% 0%;
+
+}
+
+.mar {
+
+  margin-top: 40px !important;
+}
+
+.mar2 {
+
+  margin-top: 150px !important;
+}
+
+.mar3 {
+
+  margin-top: 115px !important;
+}
+
+.titles {
+  font-size: 28px !important;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.notitles {
+  font-size: 18px !important;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.notitles2 {
+  font-size: 18px !important;
+  font-family: 'Montserrat', sans-serif;
+  color: #b8c1ec;
+
+}
+
+.mont {
+
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.middle {
+
+  vertical-align: middle !important;
+  display: inline-block;
+}
+
+
+
+.center {
+
+  margin-top: 100px;
+}
+
+@media screen and (max-width: 376px) {
+
+  h2 {
+    font-family: 'Caveat', cursive;
+    font-size: 32px;
+    margin-top: 0px;
+  }
+
+  .mar {
+    margin-top: 10px !important;
+  }
+
+  img {
+    margin-top: 15px;
+    margin-bottom: 15px !important;
+    width: 200px;
+    height: 250px;
+  }
+
+  .size2 {
+    height: auto;
+  }
+}
